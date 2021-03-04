@@ -16,6 +16,6 @@ Edit the gist, one command per line. Each line that should be executed must star
 
 Finally copy env_example into .env and replace GIST_ID and TELEGRAM_TOKEN with yours.
 
-Run the bot.py file: =python bot.py=
+Run the bot.py file: `python bot.py`
 
 Open Telegram and enter /exec in the chat with your bot. 
