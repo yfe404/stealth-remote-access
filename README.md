@@ -14,7 +14,7 @@ You need to create a Github gist and note its id.
 
 Edit the gist, one command per line. Each line that should be executed must start with "#" (without the quotes) and end with ";" (without the quotes). 
 
-Finally copy env_example into .env and replace `GIST_ID` and `TELEGRAM_TOKEN` with yours.
+Finally copy `env_example` into `.env` and replace `GIST_ID` and `TELEGRAM_TOKEN` with yours.
 
 Run the bot.py file: `python bot.py`
 
